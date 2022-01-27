@@ -13,6 +13,30 @@
          "name":"Animados 2",
          "animated_sticker_pack":true,
          "stickers":"15"
+      },
+      {
+         "identifier":"animados3",
+         "name":"Animados 3",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"animados4",
+         "name":"Animados 4",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animados5",
+         "name":"Animados 5",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"animados6",
+         "name":"Animados 6",
+         "animated_sticker_pack":true,
+         "stickers":"16"
       }
    ]
 }
