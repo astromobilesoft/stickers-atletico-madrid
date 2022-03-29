@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"laliga2122f29",
+         "name":"vs Rayo Vallecano",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"ucl2122o2",
+         "name":"vs Manchester United",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"laliga2122f28",
+         "name":"vs Cadiz CF",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"laliga2122f27",
+         "name":"vs Betis",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"laliga2122f26",
          "name":"vs Celta de Vigo",
          "animated_sticker_pack":false,
