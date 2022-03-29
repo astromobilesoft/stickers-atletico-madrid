@@ -3,18 +3,6 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"angelcorrea1",
-         "name":"Angel Correa",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
-         "identifier":"koke1",
-         "name":"Koke",
-         "animated_sticker_pack":false,
-         "stickers":"15"
-      },
-      {
          "identifier":"laliga2122f26",
          "name":"vs Celta de Vigo",
          "animated_sticker_pack":false,
