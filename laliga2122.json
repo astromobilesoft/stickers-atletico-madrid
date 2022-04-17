@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"laliga2122f32",
+         "name":"vs Espanyol",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"laliga2122f30",
          "name":"vs Alaves",
          "animated_sticker_pack":false,
