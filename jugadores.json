@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"plantilla2022",
+         "name":"Pantilla 2022",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"yannickcarrasco1",
+         "name":"Yannick Carrasco",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"angelcorrea1",
          "name":"Angel Correa",
          "animated_sticker_pack":false,
