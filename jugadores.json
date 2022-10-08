@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"antoinegriezmann1",
+         "name":"Antoine Griezmann",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"thomaslemar1",
+         "name":"Thomas Lemar",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"plantilla2022",
          "name":"Pantilla 2022",
          "animated_sticker_pack":false,
