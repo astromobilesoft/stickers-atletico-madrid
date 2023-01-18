@@ -3,7 +3,13 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"copadelrey2223f32",
+         "identifier":"copadelrey2223f8",
+         "name":"vs Levante",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"copadelrey2223f16",
          "name":"vs Real Oviedo",
          "animated_sticker_pack":false,
          "stickers":"27"
