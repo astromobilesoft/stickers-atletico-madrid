@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"laliga2223f21",
+         "name":"vs Celta de Vigo",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"laliga2223f19",
          "name":"vs Osasuna",
          "animated_sticker_pack":false,
