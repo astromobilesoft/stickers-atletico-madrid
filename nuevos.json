@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"laliga2223f23a",
+         "name":"vs Sevilla (1)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"laliga2223f23b",
+         "name":"vs Sevilla (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
          "identifier":"laliga2223f22a",
          "name":"vs Ath Bilbao (1)",
          "animated_sticker_pack":false,
