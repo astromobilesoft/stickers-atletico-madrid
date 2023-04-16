@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"laliga2223f29a",
+         "name":"vs Almeria (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"laliga2223f29b",
+         "name":"vs Almeria (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"laliga2223f28",
          "name":"vs Rayo Vallecano",
          "animated_sticker_pack":false,
