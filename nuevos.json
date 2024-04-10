@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2324c1a",
+         "name":"vs Dortmund (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ucl2324c1b",
+         "name":"vs Dortmund (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"ucl2324o2",
          "name":"vs Inter Milan",
          "animated_sticker_pack":false,
