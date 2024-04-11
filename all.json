@@ -1,0 +1,480 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.atleticomadrid",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"ucl2324c1a",
+         "name":"vs Dortmund (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ucl2324c1b",
+         "name":"vs Dortmund (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ucl2324o2",
+         "name":"vs Inter Milan",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kit2324a",
+         "name":"Kit 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"laliga2324f6a",
+         "name":"vs Real Madrid (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"laliga2324f6b",
+         "name":"vs Real Madrid (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"laliga2223f37",
+         "name":"vs Real Sociedad",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"laliga2223f35",
+         "name":"vs Osasuna",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"laliga2223f33",
+         "name":"vs Cadiz CF",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"laliga2223f32",
+         "name":"vs Valladolid",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"laliga2223f31",
+         "name":"vs Mallorca",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"laliga2223f29a",
+         "name":"vs Almeria (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"laliga2223f29b",
+         "name":"vs Almeria (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"laliga2223f28",
+         "name":"vs Rayo Vallecano",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"laliga2223f27",
+         "name":"vs Betis",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"laliga2223f26",
+         "name":"vs Valencia",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"laliga2223f25",
+         "name":"vs Girona",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"laliga2223f24a",
+         "name":"vs Sevilla (1)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"laliga2223f24b",
+         "name":"vs Sevilla (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"laliga2223f22a",
+         "name":"vs Ath Bilbao (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"laliga2223f22b",
+         "name":"vs Ath Bilbao (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"laliga2223f21",
+         "name":"vs Celta de Vigo",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"laliga2223f19",
+         "name":"vs Osasuna",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"laliga2223f18",
+         "name":"vs Valladolid",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"copadelrey2223f8",
+         "name":"vs Levante",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"copadelrey2223f16",
+         "name":"vs Real Oviedo",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"laliga2223f15",
+         "name":"vs Elche",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"copadelrey2223f32b",
+         "name":"vs Arenteiro",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022GEspainvscostarica1",
+         "name":"España vs Costa Rica (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GEspainvscostarica2",
+         "name":"España vs Costa Rica (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022spain2",
+         "name":"España 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022spain3",
+         "name":"España 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"copadelrey2223f64",
+         "name":"vs Almazan",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"laliga2223f11",
+         "name":"vs Betis",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"laliga2223f9",
+         "name":"vs Bilbao",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"josemariagimenez1",
+         "name":"Jose Maria Gimenez",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"marcosllorente1",
+         "name":"Marcos Llorente",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"laliga2223f8",
+         "name":"vs Girona",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"antoinegriezmann1",
+         "name":"Antoine Griezmann",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"thomaslemar1",
+         "name":"Thomas Lemar",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"laliga2223f7",
+         "name":"vs Sevilla",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"plantilla2022",
+         "name":"Pantilla 2022",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"yannickcarrasco1",
+         "name":"Yannick Carrasco",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"laliga2223f5",
+         "name":"vs Celta de Vigo",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"ucl2223fg1",
+         "name":"vs Porto",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"laliga2223f3",
+         "name":"vs Valencia",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"laliga2223f1",
+         "name":"vs Getafe",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"laliga2122f38",
+         "name":"vs Real Sociedad",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"laliga2122f36",
+         "name":"vs Elche",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"memes1",
+         "name":"Memes 1",
+         "animated_sticker_pack":false,
+         "stickers":"6"
+      },
+      {
+         "identifier":"laliga2122f35",
+         "name":"vs Real Madrid",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"emojis1",
+         "name":"Emojis 1",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"laliga2122f32",
+         "name":"vs Espanyol",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"felicespascuas1",
+         "name":"Felices Pascuas",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"laliga2122f30",
+         "name":"vs Alaves",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"angelcorrea1",
+         "name":"Angel Correa",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"koke1",
+         "name":"Koke",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"laliga2122f29",
+         "name":"vs Rayo Vallecano",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"ucl2122o2",
+         "name":"vs Manchester United",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"laliga2122f28",
+         "name":"vs Cadiz CF",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"laliga2122f27",
+         "name":"vs Betis",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"laliga2122f26",
+         "name":"vs Celta de Vigo",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"laliga2122f25",
+         "name":"vs Osasuna",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"laliga2122f24",
+         "name":"vs Getafe",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"laliga2122f22",
+         "name":"vs Valencia",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"copadelrey2122f16",
+         "name":"vs Rayo Majadahonda",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"gol1",
+         "name":"Pack Gol 1",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"joaofelix1",
+         "name":"Joao Felix",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"luissuarez1",
+         "name":"Luis Suarez",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"laliga2122f19",
+         "name":"vs Rayo Vallecano",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"rodrigodepaul1",
+         "name":"Rodrigo de Paul",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"club1",
+         "name":"Club",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"animados1",
+         "name":"Animados 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animados2",
+         "name":"Animados 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animados3",
+         "name":"Animados 3",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"animados4",
+         "name":"Animados 4",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animados5",
+         "name":"Animados 5",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"animados6",
+         "name":"Animados 6",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"cholosimeone1",
+         "name":"Cholo Simeone",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }
+   ]
+}
