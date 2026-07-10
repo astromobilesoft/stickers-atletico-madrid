@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026spainc1",
+         "name":"España vs Belgica",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },  
+      {
+         "identifier":"worldcup2026spaino1",
+         "name":"España vs Portugal",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }, 
+      {
          "identifier":"worldcup2026kitspain2",
          "name":"Kit España 2026 (2)",
          "animated_sticker_pack":false,
