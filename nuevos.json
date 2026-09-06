@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2627a",
+         "name":"Kit 26-27 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"kit2627b",
+         "name":"Kit 26-27 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },      
+      {
+         "identifier":"kit2627c",
+         "name":"Kit 26-27 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },      
+      {
          "identifier":"worldcup2026spainw1",
          "name":"España Campeón (2)",
          "animated_sticker_pack":false,
